@@ -7,15 +7,6 @@ import pandas as pd
 win2 = Tk()
 win2.config(width=850, height=400)
 win2.title("Ferretería")
-
-# with open('data/cliente.csv') as arc_cliente:
-#     clientes = arc_cliente.read().splitlines()
-    
-# with open('data/producto.csv') as arc_producto:
-#     productos = arc_producto.read()
-    
-# with open('data/pedido.csv') as arc_pedidos:
-#     pedidos = arc_pedidos.read().splitlines()
     
 productos = pd.read_csv('data/producto.csv')
 pedidos = pd.read_csv('data/pedido.csv')
@@ -67,6 +58,10 @@ def filtros():
         data_rows = Union.to_numpy().tolist()
         for row in data_rows:
             vista.insert("", "end", values = row)
+            
+        graph = Union.nombre_Producto.value_counts()
+        graph.plot.barh()
+        plt.show()
     ###################################################                    
     if seleccion == "Montos":
         rowsPedido = pedidos[['codigo', 'monto', 'fecha']]
@@ -82,6 +77,10 @@ def filtros():
         data_rows = Union.to_numpy().tolist()
         for row in data_rows:
             vista.insert("", "end", values = row)
+        
+        graph = Union.monto.value_counts()
+        graph.plot.barh()
+        plt.show()
     
     ###################################################
     if seleccion == "Compras":
@@ -100,6 +99,10 @@ def filtros():
         for row in data_rows:
             vista.insert("", "end", values = row)
             
+        graph = Union.nombre_Cliente.value_counts()
+        graph.plot.barh()
+        plt.show()
+            
     ###################################################
     if seleccion == "Ventas":
         rowsEmpleado = empleados[['codigo','id','nombre']]
@@ -117,6 +120,11 @@ def filtros():
         for row in data_rows:
             vista.insert("", "end", values = row)
             
+        graph = Union.nombre.value_counts()
+        graph.plot.barh()
+        plt.show()    
+            
+    ###################################################        
     if seleccion == "Artículos":
         rowsPedido = pedidos[['codigo', 'fecha']]
         rowsProducto = productos[['codigo','nombre_Producto']]
@@ -134,6 +142,10 @@ def filtros():
         data_rows = Union_2.to_numpy().tolist()
         for row in data_rows:
             vista.insert("", "end", values = row)
+            
+        graph = Union.nombre_Producto.value_counts()
+        graph.plot.barh()
+        plt.show()
     
     
 tabla()
