@@ -1,0 +1,1001 @@
+codigo,nombre,estado,descripcion,abreviatura
+1,Metoclopramide,M,31110,pring0
+2,Benzoyl Peroxide,M,,brichemond1
+3,Cefadroxil,M,,rinnot2
+4,Hand Sanitizer,M,,dbinks3
+5,Day Time Night Time Sinus Relief,F,,gabson4
+6,CLEAN IT ZERO RADIANCE,M,,lkalf5
+7,Captopril,M,,vsunter6
+8,Zyprexa,M,474-0074,kambler7
+9,Alcohol,M,,pbalmann8
+10,Gabapentin,F,,bdwelley9
+11,Stool Softener,M,09-210,tchapelhowa
+12,Moisture Renew,M,55-340,fantognazzib
+13,Triamcinolone Acetonide,M,,rpedroc
+14,Escitalopram,F,,rbarriballd
+15,Cholestop,M,,fbaylye
+16,Antibacterial Foaming Hand Wash Olive,F,,bfreshwaterf
+17,Isosorbide,F,38900,lvasyukhing
+18,GlyBURIDE,F,76194 CEDEX,nallbrookh
+19,Trazodone Hydrochloride,F,08-107,cbidnalli
+20,Doxepin Hydrochloride,F,,pdykej
+21,Hydroxyzine Pamoate,F,,ebomfieldk
+22,Escitalopram,M,3610,jjoselovitchl
+23,Tummy Aches and Gas,M,4600-741,mduffanm
+24,Arnuity Ellipta,F,34110,clemoirn
+25,PLACENTA EX ESSENCE,M,73-132,blerwello
+26,Sodium fluoride,M,,aellertonp
+27,Antiseptic,F,6060-104,mjobbinsq
+28,ACREMONIUM STRICTUM,F,2721,llomasnyr
+29,Body Wash,F,,treadheads
+30,Flawless Finish Dual Perfection Makeup SPF 8 Camellia,F,,nfrangionet
+31,glipizide,F,,tshaperou
+32,CENTER-AL - ACER NEGUNDO POLLEN,M,140209,acomettov
+33,CLARINS Broad Spectrum SPF 20 Super Restorative Tinted Tint 02,F,052038,shedworthw
+34,Indomethacin,M,,belnorx
+35,Proactiv,M,2865-493,aavrahamoffy
+36,ARC FIRST AID Contains 101 PIECES Hardcase,M,,rsanperez
+37,Elitek,M,,ekerner10
+38,Torsemide,F,63-005,rforgie11
+39,Fluconazole,F,791 91,mjorgensen12
+40,Ofloxacin,M,,vsargerson13
+41,NAPROXEN,F,,dspanswick14
+42,Ketorolac Tromethamine,F,,mgrishmanov15
+43,08 Moisture Foundation SPF 15,F,,cjenteau16
+44,Winnie Flex,F,17200-000,mpigne17
+45,ASAFOETIDA,F,PR1,egainforth18
+46,Mucus Relief,M,,cterrell19
+47,Terazosin Hydrochloride,F,366304,thrachovec1a
+48,Daytime Cold and Pain Relief,F,739 04,chatton1b
+49,SOUR DOCK SHEEP SORREL POLLEN,M,592 11,pellen1c
+50,Sertraline Hydrochloride,F,83040 CEDEX 9,gjordi1d
+51,ORCHID BY H E B,M,161560,skells1e
+52,Hydrogen Peroxide,M,706018,wpoppleton1f
+53,PERCOCET,F,,ccubbinelli1g
+54,COMMON BIG SAGEBRUSH POLLEN,F,5034,idrewell1h
+55,NIGHTTIME SLEEP AID,M,694902,jsansum1i
+56,Lovastatin,F,,nechalier1j
+57,Nasal Decongestant PE,F,32239,sbandt1k
+58,Alba TerraTint Bloom SPF 15 Lip Balm,M,,smaddrah1l
+59,Quadrydern,M,,adurtnel1m
+60,PRILOSEC,F,466 92,fharce1n
+61,Torsemide,M,2740-010,sgorst1o
+62,CTx4 Gel 5000,M,630099,swoofendell1p
+63,BLATELLA GERMANICA,F,953 91,gwoodyer1q
+64,HYDROXYZINE HYDROCHLORIDE,F,151 81,sjoynes1r
+65,Zosyn,F,851 00,vashcroft1s
+66,Face Moisturiser,F,,lmccaughren1t
+67,Oxygen,M,4485-296,cdevaney1u
+68,Levothyroxine Sodium,F,646100,lroseborough1v
+69,Magnesium Oxide,M,35300-000,esevery1w
+70,Blistex,M,,lpeattie1x
+71,berkley and jensen acetaminophen,M,,rcorcoran1y
+72,CareOne loperamide hydrochloride,F,,bovill1z
+73,Cold-EEZE,M,,lbatecok20
+74,"Food - Plant Source, Corn Zea mays",M,,bsteinham21
+75,AcneFree Clear Skin Treatments,F,431783,pdommerque22
+76,Fluconazole,M,,bstaker23
+77,ropinirole hydrochloride,F,95000-000,mdoerr24
+78,Dexamethasone,M,,etomasicchio25
+79,Promethazine VC With Codeine,M,,ileathe26
+80,Cocculus Indicus Kit Refill,M,,tpenhalurick27
+81,Dial Clear and Refresh Antibacterial Hand Soap,F,,mdemattia28
+82,XtraCare Hand Sanitizer,M,,gcancott29
+83,Temazepam,F,,ecassella2a
+84,no zit sherlock acnespot treatment,F,G3H,roxtoby2b
+85,Arnica Stannum,F,,dszymanzyk2c
+86,Bethanechol Chloride,F,,jmassingham2d
+87,Chlorhexidine Gluconate,M,,asweynson2e
+88,Escitalopram,F,,mspaughton2f
+89,Hydroxyzine Hydrochloride,M,273 30,rdrayton2g
+90,Doxycycline Hyclate,F,,wlago2h
+91,METFORMIN HYDROCHLORIDE,M,,gsiemantel2i
+92,WOODWARDS HANDCLENS FOAMING SANITIZER COLOR AND FRAGRANCE FREE,M,,twelfair2j
+93,ZIOPTAN,F,,jfarland2k
+94,METFORMIN HYDROCHLORIDE,F,,ablissitt2l
+95,Detrol LA,F,,epyburn2m
+96,Warfarin Sodium,F,,rbosket2n
+97,Pleo Art A,F,,gbarrowcliffe2o
+98,EGG WHITE,M,635 01,akordt2p
+99,AVALIDE,M,,afranklen2q
+100,AVVA,M,,mtraynor2r
+101,Demeclocycline Hydrochloride,F,2430-084,tlamminam2s
+102,Fosinopril Sodium,F,,eantrim2t
+103,Norpace,M,6204,twoffenden2u
+104,Aspergillus terreus,M,V2A,phelstrom2v
+105,Neostigmine Methylsulfate,M,,mreddick2w
+106,Hydromorphone Hydrochloride,M,7808,acalver2x
+107,LISINOPRIL AND HYDROCHLOROTHIAZIDE,M,249087,fdacre2y
+108,Herbal UTAPLAS.TN,M,MD-3401,lpovey2z
+109,Oxybutynin Chloride,M,354 91,fblesdill30
+110,Sodium Chloride,F,,hbeecker31
+111,Herbon Wild Cherry,F,36205,cmacmychem32
+112,ARTEMISIA VULGARIS POLLEN,M,986-0704,ssabate33
+113,MEPIVACAINE HYDROCHLORIDE,M,,mmacci34
+114,DEXAMETHASONE SODIUM PHOSPHATE,F,6132,asharville35
+115,Claritin,M,,asarrell36
+116,Lamisil AT,M,601120,igrason37
+117,CLE DE PEAU BEAUTE CR COMPACT FOUNDATION,F,,dmordanti38
+118,Amlodipine and Benazepril Hydrochloride,F,,ocrix39
+119,INDOMETHACIN,F,B40,hvinall3a
+120,Lupron Depot,M,,rziemsen3b
+121,Lidocaine Hydrochloride and Dextrose,F,,rhaffard3c
+122,POPULUS TREMULOIDES POLLEN,M,,nberrill3d
+123,Oxygen,M,999-8521,fgarric3e
+124,sunmark pain reliever,M,,bparradine3f
+125,"mineral oil, petrolatum, phenylephrine hydrochloride, shark liver oil",F,47211 CEDEX,lleale3g
+126,ADVANCED FLUORIDE ANTICAVITY,F,,jmargrie3h
+127,PEAR,F,,bmacintosh3i
+128,Axert,M,30910 CEDEX 2,dloche3j
+129,Escitalopram,F,,dragsdale3k
+130,Doxazosin Mesylate,F,47239,nfeaks3l
+131,Furosemide,M,,bcarlucci3m
+132,Metoprolol Tartrate,F,,idunaway3n
+133,Liquid Makeup SPF 16,M,,jluttger3o
+134,Pyrocaine Burn,M,2424,jfullom3p
+135,Crest Cavity Protection,M,,alumsdale3q
+136,Diazepam,F,,jberi3r
+137,Flurbiprofen,M,,eclemendet3s
+138,good sense allergy relief,M,,nmatley3t
+139,Phenytoin Sodium,M,,rhallford3u
+140,CVS Clarifying Body Wash,M,,smcfadin3v
+141,Aphedrid Cold and Allergy,M,19950,rbucklan3w
+142,Clean and Clear Advantage,F,357565,kclifford3x
+143,LBEL EFFET PARFAIT MINERAL NATURAL SKIN EFFECT MOUSSE FOUNDATION SPF 16,F,,rgreengrass3y
+144,Pain Relief,F,,cbennellick3z
+145,ERIVEDGE,F,,vlemery40
+146,Cetirizine Hydrochloride and Pseudoephedrine Hydrochloride,M,512 42,amcmenamin41
+147,Ifosfamide,M,97670-000,gbabber42
+148,Tizanidine,F,781-3223,mfullylove43
+149,Bismuth,F,,dthames44
+150,PREPARATION H MEDICATED WIPES,M,,jabrahim45
+151,Carisoprodol,F,,shosten46
+152,Denti-Care Denti-Freeze,F,2530-327,pfowles47
+153,Dr. Cocoa Daytime Cough and Cold,M,412545,jjuris48
+154,Topcare Daily Facial,M,,bburmingham49
+155,Piroxicam,M,11205,bcousens4a
+156,BDNF,F,,abarnsdall4b
+157,Ring Relief,M,,bcrosthwaite4c
+158,montelukast sodium,M,45807-000,pcoppins4d
+159,Crataegus Ferrum Saccharum Special Order,F,,dsharphouse4e
+160,OXYGEN,F,2785-366,tbuchan4f
+161,TUMS,M,649193,emadelin4g
+162,Ciprofloxacin,M,,gdanskine4h
+163,PureFe Plus,F,111 20,ebielefeld4i
+164,Pioglitazone Hydrochloride,F,,dtocqueville4j
+165,ACONITE NAPELLIS,M,,swegner4k
+166,Acid Reducer,M,,nmcdavitt4l
+167,Ponderosa Pine,F,4508,fvedishchev4m
+168,Simvastatin,F,9760-055,vloney4n
+169,E.O.L.,M,,lkleinber4o
+170,smart sense miconazole 1,F,,ekolyagin4p
+171,"Molds, Rusts and Smuts, Stemphylium botryosum",F,,pringer4q
+172,LEMON,F,,wbarrack4r
+173,Simvastatin,M,347703,agerge4s
+174,SUPRAX,F,88-420,ndunbobbin4t
+175,Dicyclomine Hydrochloride,M,,fspellar4u
+176,La Roche Posay Laboratorie Dermatologique Effaclar Medicated Cleanser,M,8711,bmacbarron4v
+177,SULWHASOO EVENFAIR COMPACT NO.24,M,,nghio4w
+178,IMAGE ESSENTIALS,F,630008,ssnowling4x
+179,Shopko Alcohol Swabs,M,36200,lwillshee4y
+180,Capzasin P Arthritis Pain Relief,M,,rdutnall4z
+181,Ranitidine Hydrochloride,F,,alagde50
+182,BOBBI BROWN BB,F,,gchallenor51
+183,Fiber Therapy Orange Flavor,M,,rtickel52
+184,NHS Headache Flu,F,164646,icleynaert53
+185,SERTRALINE HYDROCHLORIDE,F,352835,fgerrell54
+186,Lisinopril,M,,critchman55
+187,NUCYNTA,F,,emaydwell56
+188,Lamotrigine,F,44-144,fcalderbank57
+189,Oxybutynin Chloride,F,86110,cwaumsley58
+190,Salicylic Acid,M,,ybradforth59
+191,Nifedipine,F,,pvanderwalt5a
+192,Warfarin Sodium,M,252 45,byakuntsov5b
+193,Glipizide,M,580 07,bhaile5c
+194,Hair Regrowth Treatment for Men,M,58278-000,afazan5d
+195,Tropicamide,M,,kalejandre5e
+196,TREXIMET,F,2970-833,ubartosik5f
+197,Nifedipine,M,8340,nbrassill5g
+198,Alcohol,F,,kdorsett5h
+199,DIORSNOW BB Creme 010 White Reveal UV Protection Sunscreen Broad Spectrum SPF 50,F,,mghidini5i
+200,Metformin hydrochloride,F,,fhounsome5j
+201,Hydralazine Hydrochloride,M,2405,rcarde5k
+202,Good Neighbor Pharmacy milk of magnesia,F,,sdorbon5l
+203,Stoko Refresh,M,2970-833,rthunders5m
+204,Lorazepam,M,,wforcade5n
+205,daytime nighttime cold and flu,F,8611,srasper5o
+206,Humulin,M,,mmacdearmont5p
+207,RHEUMATSM,M,,onoel5q
+208,Nasal,M,,vsarfatti5r
+209,Aplicare Povidone-Iodine Sponge,M,31324,eenric5s
+210,Orange Basil and Lime Antibacterial Foaming Hand Wash,M,2730-060,hcurnock5t
+211,Degree for Men Cool Rush,F,,hselkirk5u
+212,Isosulfan Blue,M,45911 CEDEX 9,mdesseine5v
+213,DIPYRIDAMOLE,F,,lgostall5w
+214,Childrens Ibuprofen,F,83040 CEDEX 9,rdenizet5x
+215,ONDANSETRON HYDROCHLORIDE,M,,nschumacher5y
+216,anti-bacterial Hand Cleanser,F,,flechelle5z
+217,Virostat,M,4825-364,rklausewitz60
+218,Antibacterial Foam,F,,mkidman61
+219,RISPERIDONE,M,,ebracci62
+220,Hydralazine Hydrochloride,F,,pdent63
+221,Equate nicotine,M,,lferagh64
+222,SunDrops 75,M,96-201,lholdin65
+223,Tindamax,F,,mkleiser66
+224,Vecamyl,F,,emeeus67
+225,Nostrilla,F,5413,jhancke68
+226,Isopropyl Alcohol,M,4835-449,bfayerman69
+227,Valsartan,M,299-4128,cpeeter6a
+228,Alendronate Sodium,M,,rsmidmor6b
+229,Glipizide,M,,oworts6c
+230,Buprenorphine Hydrochloride,M,82301,jyorston6d
+231,Spironolactone,F,,cculleford6e
+232,LenzaGel,F,561 53,spulley6f
+233,Diethylpropion HCl Immediate-Release,F,,ohaslum6g
+234,simvastatin,F,,mfranklin6h
+235,potassium chloride,F,,mbodker6i
+236,Medi UV Block Suncream SPF50 PA,F,521028,cdaenen6j
+237,Purell Advanced Hand Sanitizer Tranquil Sunset,M,,dmunt6k
+238,AMRIX,F,442830,aheadon6l
+239,MucaphEd,M,5163,nstovell6m
+240,POPULUS DELTOIDES POLLEN,F,999-3146,zmurie6n
+241,Cladribine,M,731027,dcyples6o
+242,Florasone,M,,gganter6p
+243,ORENCIA,M,,gbrownstein6q
+244,Elta MD UV Aero,M,,wnanninini6r
+245,Governing Vessel Conception Vessel Meridian Opener,M,06730-000,shoulston6s
+246,Major Clotrimazole,M,LQA,kdunford6t
+247,CD DIORSNOW UV SHIELD BB CREME LIGHT SHADE WHITE REVEAL UV PROTECTION SPF 50,F,42180,mbondley6u
+248,Dextrose,M,,btibbetts6v
+249,English Walnut,M,687 54,ebrands6w
+250,Metoprolol Succinate,M,,mtattershaw6x
+251,Isovue-M,F,,sgutierrez6y
+252,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,F,589 00,gfery6z
+253,Antiseptic Hand Gel with Aloe,M,368562,fbarnbrook70
+254,Gold Bond Ultimate Eczema Relief,F,426 52,tbjerkan71
+255,Topcare nicotine,M,,osennett72
+256,Cardizem LA,F,8711,tweippert73
+257,Lidocaine Hydrochloride,M,243240,pgrumley74
+258,DAYWEAR,M,,vspalls75
+259,Loblolly Pine,F,,bmossom76
+260,Red Oak,F,4880-076,ssarfass77
+261,Doxycycline Hyclate,M,,mpavlenko78
+262,Head and Shoulders,M,07505,lgraysmark79
+263,LidoCream 5,F,2495-205,ireddle7a
+264,Warfarin Sodium,M,,esearston7b
+265,JUNIPERUS VIRGINIANA POLLEN,M,,mboykett7c
+266,Nitroglycerin Transdermal Delivery System,M,,kblaxlande7d
+267,ESIKA HYDRACOLOR 2 IN 1 HIGHLY MOISTURIZING AND COLORING SPF 25,F,13548 CEDEX,jjenyns7e
+268,MINOXIDIL,M,,bivanishev7f
+269,BANANA BOAT,M,8404,eleathart7g
+270,Passion Fruit Hand Sanitizer,M,2635-034,swadwell7h
+271,hydrocodone bitartrate and acetaminophen,F,,apannaman7i
+272,up and up miconazole 7,M,,wrelf7j
+273,Laxative Pills,F,R6M,dsilverson7k
+274,Molds - Trichophyton Mix,F,,sessex7l
+275,Ziprasidone hydrochloride,F,4805-583,gsmythe7m
+276,mapap,F,37005,tslocket7n
+277,doxycycline hyclate,M,2804,cdownton7o
+278,Pulsatilla Tormentilla PMS Relief,M,,amarkova7p
+279,Iophen C NR,F,8650-104,cpalffy7q
+280,STOOL SOFTENER,F,6718,efryman7r
+281,Waterless Anti-Bacterial Hand Cleanser,M,6366,phanscom7s
+282,Intervene Makeup SPF 15 Soft Bisque,F,06-320,cfenne7t
+283,RITE AID RENEWAL,M,96640-000,ngroundwater7u
+284,Shunga,F,788 23,avine7v
+285,Tolbutamide,F,78900,mhatter7w
+286,Allergy Relief,M,11020 CEDEX,mbugdale7x
+287,Instant Hand sanitizer,M,,bogormally7y
+288,Ropinirole Hydrochloride,M,9104,otidey7z
+289,MegaFresh,M,,rtynan80
+290,Paclitaxel,M,,drossetti81
+291,Multi-Symptom Cold and Cough Daytime Nighttime,F,77-116,xtristram82
+292,DR.G WHITENING FORTIFIER,M,,kkobiera83
+293,Tekturna,F,13220-000,lcuseick84
+294,Temazepam,M,,mcharette85
+295,Pantoprazole Sodium,F,,pwalaron86
+296,Hydrocodone Bitartrate and Acetaminophen,M,69818,odosedale87
+297,Estradiol,M,,rwadsworth88
+298,POA ANNUA POLLEN,M,,ebittlestone89
+299,Leader,F,276 01,igribbon8a
+300,Fludeoxyglucose F18,M,,mjohansen8b
+301,Arizona Ash,F,,jdenge8c
+302,Pumpkin Seeds Antibacterial Foaming Hand Wash,M,,omccarl8d
+303,Bio Viscum Compositum,M,,nfelkin8e
+304,Bodycology,F,68164,pgibbings8f
+305,Good Care Isopropyl Alcohol,M,,asoppett8g
+306,CEPHALEXIN,M,,rhastings8h
+307,Sulindac,F,,speterken8i
+308,MINOXIDIL,M,676581,stubridy8j
+309,Oxycodone and Acetaminophen,F,8331,lgristhwaite8k
+310,Acid Reducer,F,6607,hschechter8l
+311,Hair Regrowth Treatment,M,,rcothey8m
+312,Echinacea Argentum,F,46-300,hbrant8n
+313,Diazepam,F,,ajovasevic8o
+314,Suave,F,,kjocic8p
+315,Hamster Epithelium,F,,trozzell8q
+316,Zidovudine,M,2417,mmussalli8r
+317,Primsol,M,79300-000,tbloschke8s
+318,CD DIORSKIN NUDE SKIN-GLOWING MAKEUP SUNSCREEN BROAD SPECTRUM SPF 15 070 Dark Brown,M,,wscottrell8t
+319,acid reducer plus antacid,M,83370-000,nburnsall8u
+320,Formica Stibium comp. Special Order,F,93900-000,rgatcliff8v
+321,Ammonia,M,542 42,mfrift8w
+322,Extra Strength Mapap,F,664008,gstronge8x
+323,ORPHENADRINE CITRATE,M,999-8524,mkruger8y
+324,POTASSIUM CHLORIDE,M,,atippetts8z
+325,Promethazine Hydrochloride,F,,jaireton90
+326,False Ragweed,M,,ochrystie91
+327,NEXIUM,F,,kstannas92
+328,Levalbuterol Hydrochloride,F,423 55,ebotright93
+329,Aspergillus flavus,F,141143,mbasilone94
+330,Rendrevie Sun Screen SPF35 PA,F,78304 CEDEX,adanelut95
+331,Doxycycline,M,,tgullyes96
+332,Sore Nipples,F,27929 CEDEX 9,ddybell97
+333,AMERICAN BEECH POLLEN,M,,seidler98
+334,REVERDIR PTD Black Diamond Mask,F,,rallonby99
+335,Rescon GG,M,74-407,acapitano9a
+336,Atorvastatin Calcium,F,78325-000,shasser9b
+337,Ed Hardy Habit Antiseptic Hand Sanitizing Wipe,F,,nburgwyn9c
+338,Leader migraine formula,M,4815-075,dwoodvine9d
+339,ELOCON,M,9303,salu9e
+340,Aspi-Rub,M,86020 CEDEX,amoorton9f
+341,LAMICTAL,M,,isimunek9g
+342,Somatuline Depot,M,8715,dburnard9h
+343,Atomoxetine Hydrochloride,F,,fmccullouch9i
+344,Cefpodoxime Proxetil,M,13460-000,aasple9j
+345,ATORVASTATIN CALCIUM,F,23016 CEDEX,jelder9k
+346,Aveeno Active Naturals Hydrosport Sunblock,F,,sgilsthorpe9l
+347,Hawaiian Tropic Kids SPF 30,F,,dheggison9m
+348,StaphWash Plus,F,,mpickering9n
+349,equate ibuprofen,F,,trampling9o
+350,Moisture Renew,M,55-120,fstanex9p
+351,Terazosin Hydrochloride,F,,lpalley9q
+352,Gentle Eczema Balm,F,16700-000,mwhickman9r
+353,Sensipar,F,83560-000,wgirardetti9s
+354,CORTEF,M,,hwadly9t
+355,H-Nail Fungus Formula,F,01905,hoxlee9u
+356,Pregnancy Balance,F,37-112,vmccathy9v
+357,Nevirapine,M,58117-000,cpeteri9w
+358,Quinapril,M,369264,gwatting9x
+359,Aralast,M,,wsachno9y
+360,Carbamazepine,F,21266,lbaggallay9z
+361,Clonidine transdermal system,M,,ibettensona0
+362,SHISEIDO SHEER AND PERFECT FOUNDATION,F,19003,uschoolfielda1
+363,Painazin CP,M,,jvanweedenburga2
+364,Simvastatin,F,,llandora3
+365,Zonatuss,F,26109 CEDEX,rorraha4
+366,Dorzolamide HCl,F,,dtrayesa5
+367,Exforge,M,,wbeniteza6
+368,Diazepam,M,,mstangrooma7
+369,AMOXICILLIN,F,,bpallascha8
+370,Nizoral,F,080020,gschimmanga9
+371,Anticavity,M,4137,leberleinaa
+372,Ropinirole Hydrochloride,M,,mvasyushkhinab
+373,Acetaminophen And Codeine,F,80000,bespinozaac
+374,GAS RELIEF,F,,sbadsworthad
+375,Extended Phenytoin Sodium,M,,sduxburyae
+376,AIM TARTAR CONTROL,M,,kschneideraf
+377,ZONISAMIDE,F,44190,bsangeag
+378,GANCICLOVIR,M,28001,bstpierreah
+379,PHENERGAN,F,1196,rklosai
+380,PERFECTION LUMIERE,M,,gmignotaj
+381,Ciprofloxacin,F,10410,lrennicksak
+382,URIBEL,F,,bstolworthyal
+383,Ibuprofen,M,,mstratleyam
+384,Top Care Day Time,M,,pcecchian
+385,PREMIER VALUE HEMORRHOIDAL,F,5302,bbouetteao
+386,Veletri,F,,msandercroftap
+387,Trazodone Hydrochloride,F,403 39,vslineyaq
+388,Crayola Radical Red Roll On Hand Sanitizer,M,,amunnar
+389,Multi Vitamin Drops with Fluoride,M,,jyettonas
+390,PYtest,M,960-0752,aromiat
+391,CLARINS Broad Spectrum SPF 15 Titanium Dioxide-Sunscreen Extra-Firming Foundation Tint 103,M,,rkenninghamau
+392,Buspirone HCl,M,,dyockleyav
+393,Meprobamate,M,3129,ckingsnoadaw
+394,CLARINS Ever Matte Broad Spectrum SPF 15 Tint 109,F,4333,cweagenerax
+395,Paroxetine Hydrochloride,F,05-090,meliassenay
+396,Zyvox,M,5688,mambrogelliaz
+397,Mountain Cedar,F,443099,psparryb0
+398,Mercurialis Calendula Healing,F,,abirchettb1
+399,Dove DermaSeries,M,,fbarthropb2
+400,Simvastatin,M,,tcritchleyb3
+401,Olanzapine,M,9560-205,pfauntb4
+402,Isosorbide Dinitrate,M,,facedob5
+403,Skin So Soft Bug Guard Plus IR3535,M,,kmccardb6
+404,Oxytocin,M,161469,dpoggb7
+405,Good neighbor pharmacy mucus relief,F,,msimeolib8
+406,SoCalm,M,,dbatcockb9
+407,ENALAPRIL MALEATE,M,142817,pbazocheba
+408,equate nicotine,M,,wholwellbb
+409,Hydrochlorothiazide,F,,agressbc
+410,SKIN ERUPTIONS,M,,lvondruskabd
+411,Hemorrhoidal Cooling,M,77614 CEDEX 3,spurdeybe
+412,Oral Care Antiseptic,F,4415-739,odoohanbf
+413,Venlafaxine Hydrochloride,F,,joakleybg
+414,Capture Totale Radiance Restoring Serum Foundation SPF 15 010,M,04004,hdammarellbh
+415,SudoGest,F,,dtollmachebi
+416,Intervene Makeup SPF 15 Soft Toffee,F,,ahendriksbj
+417,ATORVASTATIN CALCIUM,M,361366,nhedgeleybk
+418,Sulfamethoxazole and Trimethoprim,M,,kmacloughlinbl
+419,TERRASIL COLD SORE TREATMENT,F,,icoleridgebm
+420,Doxycycline,M,125 25,ltolomiobn
+421,Children Oscillococcinum,M,,gwoodbo
+422,Fexofenadine,F,,dantoniottiibp
+423,Pro-Tect SPF 30 Sunscreen,M,14-330,jpeckettbq
+424,Minocin,F,,tstonestreetbr
+425,Calcarea Phos Kit Refill,F,,amarmionbs
+426,TIME-GESIC,F,4500,kmingeybt
+427,Ramipril,M,,whatwellbu
+428,Arnicare Trauma,F,,mparrottbv
+429,Standardized Perennial Rye Grass Pollen,F,4890-341,arattrybw
+430,RITE AID RENEWAL,M,386-0404,ssheabx
+431,Actigall,M,92195 CEDEX,tpyottby
+432,SILVADENE,M,1040,fstebbingbz
+433,Pain Relief,M,,crawlisonc0
+434,Tetracycline Hydrochloride,F,,mhazleyc1
+435,Divalproex Sodium,F,87140,jpozzic2
+436,Jason Dandruff Relief Treatment 2 in 1,F,09-530,adillistonec3
+437,REYATAZ,M,,mdarridonc4
+438,Norethindrone,M,274 34,ddenyerc5
+439,Ketorolac Tromethamine,M,,idoranc6
+440,GONAL-F RFF,F,,fmyrickc7
+441,Amazonian Clay 12-Hour Full Coverage Foundation Broad Spectrum SPF 15 Sunscreen,M,,bchattockc8
+442,Focus,F,68721-000,tpresterc9
+443,Humalog,M,,lgodwinca
+444,Topiramate,M,,jdebankecb
+445,glimepiride,F,571-0002,ccapstickcc
+446,RAZADYNE,M,,mhampecd
+447,Hydrocodone Bitartrate and Acetaminophen,F,,fflohardce
+448,Omeprazole Magnesium,M,,npiscotcf
+449,MUS MUSCULUS SKIN,F,,wskipseacg
+450,Cetirizine Hydrochloride,F,,tjaradch
+451,Sunmark Day time,F,,helliffci
+452,Topcare Sore Throat,F,10800,ameelandcj
+453,Salt Grass,M,,apumphreyck
+454,Guanfacine Hydrochloride,M,98687,hkingettcl
+455,simply right minoxidil,M,28-530,rforkercm
+456,Tinidazole,F,,adelamainecn
+457,CITRUCEL,F,,tfransemaico
+458,Blistex,F,9222,zjendryscp
+459,Furosemide,F,,mmcmurdocq
+460,Lithium Carbonate,M,,fportmancr
+461,Youngevity,F,439 31,cdarecs
+462,EndoPure Estro,F,154617,jcrewsct
+463,SOMA Atocell,F,9410,rmitchardcu
+464,Stomach Relief,F,,mcleftcv
+465,Escitalopram oxalate,M,,jbalfcw
+466,Bupropion Hydrochloride,F,6220,dbergeaucx
+467,Progesterone,F,8011,obythwaycy
+468,Citalopram,M,3863,cethingtoncz
+469,PROGESTERONE,F,8680,ktousyd0
+470,Simvastatin,F,35005,araratyd1
+471,Crest 3D White,F,,aandreassend2
+472,OXYGEN,F,,fspirad3
+473,Degree Women,F,,ncushworthd4
+474,Nadolol,M,49510,felwelld5
+475,Maximum Strength Diaper Rash,F,,jreochd6
+476,isosorbide mononitrate,M,256 62,aspohrmannd7
+477,PYRETHRUM CINERARIIFOLIUM,M,141930,rcicerod8
+478,Diphenhydramine Hydrochloride,F,504 01,lmatfieldd9
+479,PRO LASER,M,,adrohanda
+480,CANASA,F,,cgassondb
+481,Lamotrigine,M,,mdutchdc
+482,Allergies Total Mold Control,M,,kmackiewiczdd
+483,Cetirizine Hydrochloride,F,7305,dreddickde
+484,Bisoprolol Fumarate and Hydrochlorothiazide,M,,pmcginnisdf
+485,Escitalopram,F,694060,parchbalddg
+486,Famotidine,M,,clandrieudh
+487,Loneliness and Sadness,M,4905-266,tlorydi
+488,Sandostatin,M,,amactavishdj
+489,Head and Shoulders Treatment,M,,jharriskinedk
+490,Carbamazepine,M,,jinnwooddl
+491,CANIS LUPUS FAMILIARIS SKIN,F,7916,cdesvignesdm
+492,Lovastatin,F,,ladolphinedn
+493,Fosphenytoin Sodium,F,,ahellikerdo
+494,Mandragora Rheum,M,926-0867,ewoodgatedp
+495,Incivek,M,,acurnessdq
+496,AGAVE CACTUS,M,,dennordr
+497,Megestrol Acetate,F,V1A,rpowerds
+498,Librium,M,,dmccourtdt
+499,BIOPLASMA SPORT WITH ELECTROLYTES,F,,kosemandu
+500,Tuna,M,184 23,dprisleydv
+501,SuperDent Hemal,F,86600-000,socarrandw
+502,Alendronate Sodium,M,2559,sraggedx
+503,Childrens,F,182333,callibondy
+504,Pyrilamine Maleate and Phenylephrine Hydrochloride,M,,rcarnegydz
+505,Epinephrine,F,,hjanuaryste0
+506,Excedrin,F,594 52,mabrahamiane1
+507,Caffeic Acid,F,,kiacobaccie2
+508,NAPRELAN,M,3844,atremelliere3
+509,IMITREX,F,,aconahye4
+510,Sertraline Hydrochloride,F,2823,fdelaneye5
+511,Atenolol,F,09034,nkere6
+512,Apis Belladonna Special Order,M,703038,edavillee7
+513,Metformin Hydrochloride,M,44430,gmoylese8
+514,Derma-Smoothe/FS,F,739 44,gofahertye9
+515,Vancomycin Hydrochloride,M,,jcamlinea
+516,Metformin Hydrochloride,F,,mvanyatineb
+517,HYPERICUM PERFORATUM,F,171 43,abinnesec
+518,Men Dynamics,M,13637 CEDEX,aarmfirlded
+519,Cepacol,M,,bdecruseee
+520,Antacid Liquid Max Strength Cherry,F,,lvasnetsovef
+521,OXYGEN,F,,mnorwoodeg
+522,Ponderosa Pine,F,,gscrivenseh
+523,Aveeno Active Naturals Smart Essentials Daily Nourishing Moisturizer,M,,fbonehillei
+524,Oxy Daily Defense Exfoliating Body Scrub,F,,tcreanej
+525,Kiehls Since 1851 Activated Sun Protector Broad Spectrum SPF 30 Sunscreen for Body,M,,yraveauek
+526,Western White Pine,M,,vbendixel
+527,Freshscent Anti-Perspirant Deodorant,M,190,mlulhamem
+528,Ephedrine Sulfate,M,63174,ckibbeeen
+529,Levofloxacin,F,,bhaberfieldeo
+530,Olanzapine,M,755 01,lkeemerep
+531,SINGULAIR,M,23860-000,csummersoneq
+532,SHISEIDO ULTIMATE SUN PROTECTION,F,,cpayneer
+533,"DermaQuest TM Skin Therapy, Breathable Coverage TM Mineral Foundation SPF-30, DermaMinerals TM",M,37554 CEDEX,bprestlandes
+534,topiramate,M,2540-557,wvowelset
+535,Detoxifier,M,542 34,klemmoneu
+536,Lorac Foundation Fair,F,46620,anotleyev
+537,Ranitidine,F,,rcordeauew
+538,SPF-15 Sunscreen,M,,rsongestex
+539,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,M,984 28,tschuchmacherey
+540,Polyethylene Glycol 3350,M,7213,bspeakeez
+541,SYLATRON,F,,rhandfordf0
+542,PreTAB,M,,adobkinf1
+543,Doxorubicin Hydrochloride,M,T5G,tposvnerf2
+544,Belucie Luxury Timeless Golden Age Emulsion,F,84964 CEDEX,lblissittf3
+545,Nitrogen,F,,nboramf4
+546,Acyclovir,F,674050,mdyshartf5
+547,Coralite Cold and Hot,F,855058,bsenyardf6
+548,Homeopathic Tension Headache Formula,F,,njostf7
+549,Levalbuterol Hydrochloride,M,77493,cmcneef8
+550,Vimpat,F,,cpreciousf9
+551,Plasbumin,M,,pridgefa
+552,healthy accents day time night time,M,,bharbertfb
+553,ST. IVES,M,,kokkerfc
+554,Amiodarone hydrochloride,F,,lhyattfd
+555,enema,M,,jcrusefe
+556,Cheracol D,M,,bjorissenff
+557,Moisture Renew,M,,obanbrickfg
+558,Carbidopa and levodopa,F,582 83,rmallowsfh
+559,Select OB,M,,gtrottfi
+560,Infants Pain Reliever,M,35220,crasperfj
+561,Ambi Essentials,F,G0N,cwilseefk
+562,SyFungin,F,,gcranmerefl
+563,Montelukast Sodium,M,,cweldenfm
+564,Myrbetriq,M,J1T,bmacconachyfn
+565,eye itch relief,M,,nplenderleithfo
+566,PROAIR,M,,mfewkesfp
+567,Non-Habit Forming Stool Softener,F,5409,amcallanfq
+568,Pacific,F,,iblakesleefr
+569,Pain Reliever PM,F,,cmelrossfs
+570,Venoforce,F,,scollieft
+571,Terrasil Cold Sore Treatment,M,2437,ajouanotfu
+572,Treatment Set TS330821,F,33060 CEDEX,hseelerfv
+573,Athletes Foot Spray,M,,gmcisaacfw
+574,SOOTHE AND CURE,M,,wcolvinfx
+575,Sabal Populus,M,901095,mparleyfy
+576,Toasted Vanilla Sugar Hand Sanitizer,F,,bygofz
+577,Nitrofurantion Macrocrystals,M,,mstennerg0
+578,IBU,F,666137,aesherwoodg1
+579,ARTHROTEC,F,739 44,gjakubiakg2
+580,Loxapine,M,28-136,rboggisg3
+581,Hydromorphone Hydrochloride,F,L-3676,slukaseng4
+582,Citalopram Hydrobromide,F,,agreenlyg5
+583,Care One Cold and Allergy,M,,kdisdelg6
+584,Diovan HCT,F,301113,grashleighg7
+585,LYRICA,M,338 08,rdoumencg8
+586,laura mercier Tinted Moisturizer Creme Compact Broad Spectrum SPF 20 Sunscreen ALMOND,F,6696,rexelbyg9
+587,D-Cal SoyCal,F,,ahanfordga
+588,Orange Pollen,F,,cdanskengb
+589,GLUCOPHAGE,M,4323,rgonthardgc
+590,Desipramine Hydrochloride,F,43-354,eschelliggd
+591,skin effects Firming Facial with Retinol Complex SPF 30,F,2435-225,lbroaderge
+592,Meloxicam,M,,smcgregorgf
+593,Lorazepam,F,4605-491,cbullengg
+594,Muscular Pain Relief,F,,lsnodengh
+595,Octreotide acetate,F,,fschweringi
+596,ZYPREXA,F,2840-707,hbrunigj
+597,Fexofenadine,M,30414,lstollmeiergk
+598,Ramipril,M,,mtebbutgl
+599,Nuvigil,F,6330,cbackshellgm
+600,ORIGINAL POWER WHITENING AND LINELESS AMPOULE,M,7305,jwardellgn
+601,TOPIRAMATE,M,,pspellmango
+602,Excedrin,M,,asisslandgp
+603,Olanzapine,M,,jdougangq
+604,Nervous Headache,F,87-510,jjakubskigr
+605,M EROS BODYGLIDE,M,,dtrunkfieldgs
+606,LISINOPRIL,M,,mvenusgt
+607,Atovaquone and Proguanil Hydrochloride,M,4399,cwoodnuttgu
+608,Witch Hazel,F,353276,rblamiresgv
+609,Topcare Ibuprofen,M,57230-000,vhadwengw
+610,Midazolam,F,,bdreiergx
+611,FLUOROMETHOLONE,F,649234,rlovittgy
+612,Ibuprofen,M,,lancellgz
+613,PAPAYA,F,,rredheadh0
+614,Hydralazine Hydrochloride,M,,sfieldsh1
+615,Terazosin Hydrochloride Anhydrous,M,13660-000,dmaillardh2
+616,Ceftriaxone,M,08204,nluterh3
+617,Burkhart Neutral,M,347879,rwhitlandh4
+618,Illusion Tinted Moisturizer Broad Spectrum Light Beige,F,34110,btakkosh5
+619,Choline C 11,M,,ehopkynsonh6
+620,Metasol Skin Lightening,F,,dvandijkh7
+621,VITALUMIERE,F,32-615,csheehanh8
+622,DOXOrubicin Hydrochloride,F,5202,jhayenh9
+623,PRAVASTATIN SODIUM,F,7509,csnoddonha
+624,Bupropion Hydrochloride,M,6337,nscottihb
+625,Propofol,F,7300-655,astricklandhc
+626,"Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate",M,,welgoodhd
+627,Smart Sense Ranitidine,M,,nandriollihe
+628,Anti-itch,F,,jpiscopiellohf
+629,Russian Thistle,F,,calvinhg
+630,Good Sense Pain Relief PM,F,,dskaifehh
+631,Childrens Loratadine,M,,kcolleckhi
+632,Cyanokit,F,2815-625,asteljeshj
+633,good sense antacid,F,,egavehk
+634,Epicoccum nigrum,F,,gdurnianhl
+635,ibuprofen,M,,rkubalahm
+636,Nisoldipine,F,,egushhn
+637,Furosemide,M,27-530,blotheanho
+638,Blistex,F,27175-000,hdusthp
+639,Mirtazapine,F,,gtattertonhq
+640,Pain Relief,M,,hgiorgionehr
+641,Dreumex Omnicare Hand Sanitizer,F,674230,blandonhs
+642,Sage,M,7806,aborsnallht
+643,Atorvastatin Calcium,F,,lbasiliohu
+644,SENSI-CARE BODY,M,,akingscotehv
+645,Menstrual Headache,F,,jbutchershw
+646,Head Cold,M,,djobbinshx
+647,Acyclovir,M,,djessephy
+648,Levothyroxine Sodium,F,A91,aofallownehz
+649,UTI and Kidney Stones,F,,fstillei0
+650,Nitroglycerin,F,53260,hkaaskooperi1
+651,Up and Up Nicotine,F,,bvilesi2
+652,PANTO A,F,37016 CEDEX 1,wgoudmani3
+653,Lemon Zest Antibacterial Foaming Hand Wash,M,4465-005,mbyrnesi4
+654,laura mercier Tinted Moisturizer Creme Compact Broad Spectrum SPF 20 Sunscreen CARAMEL,M,,ubowlandi5
+655,Cultivated Oat,F,64-800,ubrettellei6
+656,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,M,,lnielsoni7
+657,Dronabinol,F,,mleadi8
+658,Clindamycin Hydrochloride,F,63804 CEDEX,dgreenmoni9
+659,Rheumatism,F,,cbesqueia
+660,Cerebral Composition,F,,btodariniib
+661,good sense cough and sore throat,F,7104,seaglestoneic
+662,Ibuprofen,F,,lnelmid
+663,EYE - CATARACT,M,,gmessengerie
+664,Fludrocortisone Acetate,F,143035,ifrangioneif
+665,LBEL divine lip gloss SPF 15,M,,mswendellig
+666,Nabumetone,F,,mspurdensih
+667,Aplicare Povidone-iodine Scrub,F,,aebbensii
+668,RoC Retinol Correxion Deep Wrinkle Daily Moisturizer,F,9410,ismartmanij
+669,MuscleCare,M,D17,lpavieik
+670,EO HAND SANITIZER,F,301649,rphillpsil
+671,Hemorrhoidal,F,,jclapstonim
+672,ELINEST,M,8038,dpylkynytonin
+673,Fluorouracil,F,,aleyrroydio
+674,No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Mocha,M,2440-356,kvarleyip
+675,Western White Pine,F,783 91,dcommanderiq
+676,Star of Bethlehem,F,57230-000,cpurtonir
+677,ALNUS GLUTINOSA,F,60433,ibuyis
+678,dg health ibuprofen,M,,fguidottiit
+679,Pioglitazone Hydrochloride,M,,costiu
+680,CHAPSTICK CLASSICS ORIGINAL,F,66-218,rdurbaniv
+681,Hydrocortisone,M,7027,jteissieriw
+682,enMotion,M,44324 CEDEX 3,dcastellaccioix
+683,East Sycamore,F,,spettegreiy
+684,Amlodipine,M,,rchallenoriz
+685,Lisinopril,F,22156,rpricej0
+686,"Mucus Relief Cold, Flu and Sore Throat",F,,lranshawj1
+687,LINGERIE DE PEAU BB INVISIBLE SKIN-FUSION MULTI-PERFECTING MAKEUP WITH SUNSCREEN BROAD SPECTRUM SPF 30 LIGHT,M,952-1203,jmcelreej2
+688,Divalproex Sodium,F,,gdettmarj3
+689,Zyprexa,M,,kdyballj4
+690,Four Season,F,79031 CEDEX 9,lmcclancyj5
+691,Lyrica,M,91709 CEDEX,jwinterburnj6
+692,Leader ibuprofen,M,3524,fthurbonj7
+693,WALGREENS MEDICATED PAIN RELIEVING,F,,baprilj8
+694,VECURONIUM BROMIDE,M,,lcorderj9
+695,Antihistimine Allergy,M,,lcaulierja
+696,8-MOP,M,,eigguldenjb
+697,Bupropion,F,,jgrammerjc
+698,Australian Gold,F,08104,rnetherwoodjd
+699,Tramadol Hydrochloride and Acetaminophen,F,0850,smccheyneje
+700,Alendronate Sodium,M,83-260,lcopellojf
+701,Laxative,M,607069,ctrevenujg
+702,Calcium Chloride,M,,hnialjh
+703,Oregon Ash,M,33-330,tflecknoji
+704,California Sycamore,M,,icudiffjj
+705,Medi-First Antacid,F,,wbrandsenjk
+706,Visine Tears,M,10001,vjezzardjl
+707,Benicar Hct,F,HMR,rhullandjm
+708,Meclizine Hydrochloride,M,743 91,sdaintithjn
+709,NEXIUM,F,56700,rjanouchjo
+710,Alcohol Prep,F,2703,hveryjp
+711,JUNIPERUS VIRGINIANA POLLEN,F,,irainsdenjq
+712,"Pollens - Weeds and Garden Plants, Short Ragweed, Ambrosia artemisiifolia",M,,mfinnimorejr
+713,Pac-Dent Top Gel,M,,ncortesjs
+714,Hydrogen Peroxide,M,9507,cpossekjt
+715,Renes Veratrum,M,39630,bskeltonju
+716,DT Ice Cold Analgesic,F,990-2332,cbedomejv
+717,Lidocaine Hydrochloride,M,,ntotenjw
+718,ATOPALM Oral Pain Relief,F,,nlaingejx
+719,Demeclocycline Hydrochloride,F,93214 CEDEX,fpeytojy
+720,Alprazolam,M,,fshackladyjz
+721,Diazepam,F,1220,chugonneauk0
+722,EXSEL SPORT SPF 15,M,,vchiezek1
+723,INVOKANA,M,,bjouhandeauk2
+724,Cefdinir,M,,eformk3
+725,Coppertone oil free,M,94154,lcardinalek4
+726,Oxazepam,F,3850,mjenmank5
+727,Betamethasone Dipropionate,M,,psquirrelk6
+728,smart sense hemorrhoidal,M,10405,sgibbenk7
+729,Moore Medical Sugar Free Black Cherry Cough Suppressant/Anesthetic Drops,M,70324,gbiggk8
+730,Lovaza,F,720 16,arhodefk9
+731,Rabbitbush,F,,fmeriothka
+732,Nifedipine,F,,rbrithmankb
+733,AVANDIA,M,,dgerardinkc
+734,ReCreate Foundation,M,,lhurdlekd
+735,DR DEEP SKINTONER,M,40951,nhazlehurstke
+736,TOPIRAMATE,F,22304 CEDEX,ajeffrykf
+737,Endure 200,F,,battwoulkg
+738,Acetaminophen,M,,ccunningtonkh
+739,"Food - Fish and Shellfish, Shrimp Crago sp.",F,,tcotillardki
+740,CVS Pharmacy,M,J9E,mstearnkj
+741,Wal-Dram,F,40672,ikaiserkk
+742,Glyburide,F,99560-000,oallerykl
+743,Beet,F,1715,piddendenkm
+744,Neutrogena Healthy Skin Compact Makeup,M,6520,cwhitfieldkn
+745,Mary Kay Tinted Moisturizer Sunscreen SPF 20 Beige 1,M,,lavannko
+746,Cefuroxime axetil,M,,doshesnankp
+747,Burkhart,F,34201,mnutkinskq
+748,Antimicrobial Hand Wash,F,19141,ududdlekr
+749,Ropinirole Hydrochloride,M,,kclarkks
+750,EUCALYPTUS GLOBULUS POLLEN,M,,amuslimkt
+751,Exforge HCT,F,,bpyffeku
+752,Ibuprofen,M,,kcreavenkv
+753,Trazodone Hydrochloride,M,4505-224,spiddickkw
+754,ROPINIROLE HYDROCHLORIDE,M,,gfurmengerkx
+755,Dr. OBERON MOMS CARE OIL,F,,btumilsonky
+756,Rohto Hydra,M,314-0116,vgahankz
+757,Perfect Pore Clean I,M,,rcasottil0
+758,Sulfamethoxazole and Trimethoprim,M,4142,rpettecrewl1
+759,Aminocaproic Acid,F,,ncullinanl2
+760,VALACYCLOVIR HYDROCHLORIDE,F,,bmortelll3
+761,Primidone,F,3060-816,mbusl4
+762,Meperidine Hydrochloride,M,1101,bbraniffl5
+763,Salicylic Acid,F,87-340,mstandingl6
+764,Potassium Chloride,F,,dkelstonl7
+765,Fungal Infection,M,2605-006,mglandonl8
+766,Lumene Vitamin C BB Illuminating Anti-Age BB Sunscreen Broad Spectrum SPF 20 Medium,F,,wstolbergl9
+767,DiphenhydrAMINE Hydrochloride,F,,propartzla
+768,Nystatin,M,997-0753,lbuxamlb
+769,nasal decongestant,M,,ehefnerlc
+770,Quality Choice,M,,ftomaskovld
+771,Unisom SleepGels Nighttime Sleep-Aid,F,,sardronle
+772,Ambien,F,35914 CEDEX 9,lcarrecklf
+773,Furosemide,M,2435-553,sattwoolllg
+774,care one calcium antacid,F,,lwittmanlh
+775,Levothyroxine Sodium,M,671360,vhalesworthli
+776,Rite Aid Extra Strength Pain Relief Cold and Hot Medicated,F,182156,rlibbislj
+777,Night Time Original,F,,gbraynelk
+778,Bilboa Capri Sunscreen SPF 30,F,,zdranfieldll
+779,RUMEX ACETOSELLA POLLEN,M,,melvylm
+780,Exelon,M,,dgettenln
+781,COUMADIN,M,V6N,hmaragalo
+782,Potassium Phosphates,F,,salveslp
+783,IOPE AIR CUSHION XP,F,22017,rbauslq
+784,PureLife APF,M,,sscouselr
+785,Clearasil Daily Clear,F,,oscoginls
+786,Dog Fennel,F,278 01,emasserlt
+787,Adderall,M,20195 CEDEX 1,svoddenlu
+788,Sleep,M,,ecuseicklv
+789,Tramapap,F,,pdonavanlw
+790,simvastatin,M,751 71,adollinlx
+791,Clobetasol Propionate,F,,voherlihyly
+792,Buspirone HCl,M,,gorganerlz
+793,"Pollens - Weeds and Garden Plants, Pigweed, Rough Redroot Amaranthus retroflexus",F,,nosheam0
+794,Dial Mountain Fresh Antibacterial Soap,M,368219,lhattom1
+795,thrombin human,F,,nstuckfordm2
+796,METOPROLOL TARTRATE AND HYDROCHLOROTHIAZIDE,M,,fjessardm3
+797,Ferrum Carbonicum,F,,uclydem4
+798,Penicillin V Potassium,M,22009,cnotmanm5
+799,ARANESP,F,,speatm6
+800,Sleep Aid,M,263 01,cwalesam7
+801,Carbon Dioxide,M,,dkorbmakerm8
+802,Promethazine Hydrochloride,M,,mblemingsm9
+803,SHISEIDO SHEER MATIFYING COMPACT (REFILL),F,34-322,kgirauldma
+804,Morphine sulfate,F,,esingyardmb
+805,Protex Balance antibacterial hand,M,352177,soheneghanmc
+806,hydrocortisone acetate pramoxine hcl,M,,slordonmd
+807,Cyclobenzaprine Hydrochloride,F,,cmcsherryme
+808,Cover Fx Blemish Treatment Concealer G Light,M,68020 CEDEX,rcritzenmf
+809,Cyclease Cramp,F,,kfolinimg
+810,Midazolam Hydrochloride,F,,cgraingermh
+811,CARISOPRODOL,M,,nharfordmi
+812,Losartan Potassium,F,93-154,bbadbymj
+813,Cephalexin,F,36689,ccouchemk
+814,Buspirone Hydrochloride,F,11300-000,mcregganml
+815,Pleo San Salm,F,94180,locloneymm
+816,Gabapentin,M,,yandressermn
+817,Methimazole,F,D04,adefrainemo
+818,Ropinirole Hydrochloride,F,523528,jgaitleymp
+819,Insect Bites,F,140722,calexismq
+820,Alendronate Sodium,M,,tbrumhammr
+821,BELSOMRA,F,50740,giashvilims
+822,Dr Bob Arnots Pain Pen,M,,jpegrammt
+823,Promethazine Hydrochloride,F,,ldevinnmu
+824,PAROXETINE,F,,tgroviermv
+825,Cymbalta,F,658693,mmckeveneymw
+826,GoodSense,F,,dwhichermx
+827,Hawaiian Tropic Island Sport SPF 30,M,301822,fneillansmy
+828,dual action,F,7004,vtweedmz
+829,RIMSO-50,M,361624,rpaulign0
+830,DELFLEX,F,,dwhistann1
+831,Tinted SPF 45,M,,cfilliskirkn2
+832,Amlodipine Besylate and Benazepril Hydrochloride,M,58300-000,mgrzelczykn3
+833,Geotrichum candidum,M,,apattingsonn4
+834,Gas Relief,M,301649,hstellen5
+835,Pure Transformation Sheer Dark,M,98000-000,bgalean6
+836,DR. RECKEWEG R53 Comedonin,F,,kstruten7
+837,Desmopressin Acetate,M,,sjasparn8
+838,Prevail,F,08-107,gbeaudryn9
+839,Wheat Stem Rust,F,,hchasteyna
+840,Calcium Gluconate,F,A84,jvannuccininb
+841,Rosmarinus Argentum,F,,skisbeync
+842,Dr. Fresh Oral Care,M,,nrichfordnd
+843,Citalopram Hydrobromide,F,,vcordierne
+844,SOLAR SENSE ZANY ZINC SPF 50 - WHITE,F,757 01,nmessruthernf
+845,SOYBEAN,M,,ehollylandng
+846,Risperidone,M,10464,crobertaccinh
+847,ANTIBACTERIAL FOAMING HAND SP CUCUMBER AND MELON,M,4514,hblakemoreni
+848,Methylin,M,,sseawellnj
+849,Adult Tussin DM Max,F,250 06,bsneddennk
+850,LBEL EFFET PARFAIT MINERAL NATURAL SKIN EFFECT MOUSSE FOUNDATION SPF 16,M,11-041,mmanjinnl
+851,Cellex-C Sun Shade,M,,adainnm
+852,Permethrin,M,,dblazicnn
+853,Clam,F,262 23,awitterickno
+854,Pravastatin Sodium,M,39180,cannicenp
+855,Methocarbamol,M,756 11,ssiddlenq
+856,Vaniply,F,368560,eyannenr
+857,Antipyrine and Benzocaine,F,,glonglandns
+858,Nite Time Cold and Cough,M,154648,cblinckont
+859,PHOSLYRA,F,,lellamnu
+860,Cialis,M,11130,mfarlamnv
+861,Gabapentin,F,7005,pgrishanovnw
+862,Fentanyl,M,,blavaracknx
+863,milk of magnesia,M,4194,vforstny
+864,mesna,M,32000,rgunstonnz
+865,Acetaminophen,M,,mkyllfordo0
+866,Terazol 3,F,,lfaichneyo1
+867,Glyburide and Metformin,M,,astockauo2
+868,Poly-Vent DM,M,,jhadentono3
+869,ACETAMINOPHEN and CODEINE,F,,vpalingo4
+870,Cepacol,F,87840-000,npallatinao5
+871,XOLIDO,F,679-4324,ceustiso6
+872,Eupatorium comp.,M,24515,btebaldo7
+873,HYVEE,M,23289,vcassello8
+874,Treatment Set TS342922,M,86-120,cbackhursto9
+875,Quinapril,M,,tmuckartoa
+876,Heparin Sodium,F,,gchappelleob
+877,albuterol sulfate,M,5413,ksleichtoc
+878,Hydrocodone Bitartrate And Acetaminophen,F,62652,dvooghtod
+879,WESTERN FAMILY Alcohol Swabs,F,7220-357,llewingtonoe
+880,20/20,M,,creelyof
+881,Jet Lag,F,,bpielog
+882,Fear Phobia,F,,alengoh
+883,MI-ACID MAXIMUM STRENGTH,M,,gstandleyoi
+884,Lollipop,M,,rmaccaugheyoj
+885,Tobramycin,F,,mwessingok
+886,"Carbidopa, levodopa and entacapone",F,,cfurslandol
+887,TOPIRAMATE,M,,emacdougallom
+888,Daytime Flu Relief Therapy,F,,asampleon
+889,Turbo Arnica,F,,cwakelinoo
+890,Omeprazole Magnesium,M,4660-059,khilliamop
+891,PYRETHRUM,M,87090 CEDEX 9,ulopesoq
+892,Artificial Tears,F,4001,jofallowneor
+893,Russian Thistle,F,624238,bkynetonos
+894,ANTIBACTERIAL,F,,ksockellot
+895,CELLBOOSTING HOMME WHITENING FLUID,F,2705,abettisou
+896,Omeprazole,F,,otonbyeov
+897,PHOTOSHOT 3D BB BALM,M,70644,emacleseow
+898,All Day Allergy,M,216420,kheersmaox
+899,Body,M,,mjunkisonoy
+900,NAPROXEN SODIUM,F,55180,tcowderyoz
+901,Extralasting,F,,pgodwinp0
+902,Prednisolone Sodium Phosphate,M,,oharphamp1
+903,Nu Skin 180 Degree UV Block Hydrator SPF 18,F,,jbrunningp2
+904,HealthCare,M,,awaterhousp3
+905,ENTSOL,M,188732,ckelmerep4
+906,Enoxaparin Sodium,M,,jclaigep5
+907,Bethanechol Chloride,F,2445-705,mhumpheryp6
+908,Guaifenesin and Codeine Phosphate,F,188370,lmciloryp7
+909,RITE AID RENEWAL,M,,eculterp8
+910,stomach relief,F,,bmedlandp9
+911,Lorazepam,M,,mdockwraypa
+912,acetaminophen pm,M,BT66,tshreevespb
+913,Iophen NR,F,2804,kjaxonpc
+914,Fluphenazine Hydrochloride,M,44280,hbordisspd
+915,Sofskin Ice Analgesic,F,3860-042,drushepe
+916,LBEL COULEUR LUXE AMPLIFIER XP,M,,akerrichpf
+917,Oxygen,M,416372,hjouanetpg
+918,Meijer Softchews,F,,kpanchinph
+919,Lithium Carbonate,F,273 43,pcastripi
+920,No7 Stay Perfect Foundation Sunscreen SPF 15 Tan,F,36770-000,imacgorriepj
+921,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,M,,ssilverlockpk
+922,Vivarin,M,,rdunlappl
+923,Peditrace,F,13390-000,sbrodestpm
+924,ALTERNARIA TENUIS,M,,ncainpn
+925,Etodolac,F,,htefftpo
+926,BOA VIDA Cleansing,M,50309 CEDEX,gvedyaevpp
+927,Demadex,F,29970,bhansodpq
+928,MODLINA PEPTIDE SOOTHING ESSENTIAL HYDROGEL MASK PACK,F,161350,tinnespr
+929,Simvastatin,F,606860,rhowtopreserveps
+930,Gabapentin,M,59258-000,dheinerpt
+931,Lamotrigine,M,0906,wskoofpu
+932,Eplerenone,M,,shainespv
+933,PreviDent,F,,dhulcooppw
+934,Rosanil,F,,gdemangeotpx
+935,Levothyroxine Sodium,M,,lcrainpy
+936,Oxcarbazepine,M,,abudgeonpz
+937,Goldlove Hand Sanitizer,M,,apepiq0
+938,ANTI BACTERIAL HAND SANITIZER,F,,dbodenq1
+939,SPF 15 Sunscreen,M,75166 CEDEX 19,vbuxeyq2
+940,Elizabeth Arden Moisture Shield SPF 15,F,,kpenniniq3
+941,NARS ALL DAY LUMINOUS FOUNDATION,M,784 55,gmacsharryq4
+942,Nadolol,M,7514,lmachostieq5
+943,mally Poreless Perfection Glowing Foundation Medium,F,,kbrosekeq6
+944,Papaverine Hydrochloride,F,678580,lfiddemanq7
+945,ACNE SOLUTIONS,M,P4P,efassq8
+946,Beef Liver,F,,malsobrookq9
+947,Byotrol Hand Sanitizer,M,EH9,boaksqa
+948,CAREONE INSTANT HAND SANITIZER WITH ALOE AND VITAMIN E,M,,hivaninqb
+949,Candida Yeast,F,90451,rwealeqc
+950,care one omeprazole,M,461360,lkemqd
+951,Bladder - Kidney,F,,clukehurstqe
+952,Allergy and Sinus Headache,M,4890-055,aburgenqf
+953,PNEUMO HP,F,357920,gpoulterqg
+954,Loblolly Pine,M,357813,epeaseqh
+955,Vertra Elemental Resistance Mick Fanning Signature SPF 28,M,9408,rmaroqi
+956,COREG,M,,astolliqj
+957,LIDODERM,M,20110,asalvadorqk
+958,Topex,F,,rwoolvinql
+959,Glipizide,M,,alauxmannqm
+960,Petroleum,M,,dpreonqn
+961,Hemorrhoids,F,999-2171,rstronoughqo
+962,Locoid Lipocream,F,,agrimmettqp
+963,NARS PURE RADIANT TINTED MOISTURIZER,M,22270,vgehrtsqq
+964,Allergena,M,2712,bmcloneyqr
+965,No7 Protect and Perfect Intense Day Cream SPF 15,M,,ngirtqs
+966,ALTERNARIA TENUIS ALTERNATA,M,,ashearstoneqt
+967,Sinus Cleanser,M,,nguarinqu
+968,Tobaccotox,M,,rwogdenqv
+969,Mupirocin,M,2284,mlillgardqw
+970,ABILIFY,F,9302,cfarndellqx
+971,ANTIBACTERIAL FOAMING,F,91574 CEDEX,fmattityahouqy
+972,Isoflurane,M,,showgillqz
+973,Quetiapine fumarate,F,11803 CEDEX 9,esleer0
+974,Peptic Relief,M,595 94,azorzettir1
+975,Total Protrector 15,F,,scomiamr2
+976,CHAPSTICK MOISTURIZER,F,368328,kpydcockr3
+977,ALPRAZOLAM,M,,ccammr4
+978,Alcohol Prep Pad,F,,bmckellenr5
+979,Meloxicam,M,,trossonr6
+980,ziprasidone hydrochloride,F,23242,pmaffiar7
+981,Alprazolam,M,,dryderr8
+982,VASOPRESSIN,M,26340,ahizirr9
+983,Pure Finish Mineral Powder Foundation SPF 20 Pure Finish 9,M,,sbeneixra
+984,Clindamycin Hydrochloride,F,,wmatthiesonrb
+985,Propranolol Hydrochloride,F,549 63,dhryniewiczrc
+986,Macadamia Nut,F,19204 CEDEX,aswetlandrd
+987,Granisetron Hydrochloride,F,09-414,acuffre
+988,MEDI-PAK,M,,dellisrf
+989,Nutricel Additive System - AS3,F,4186,rpiggensrg
+990,CD DIORSKIN NUDE SKIN-GLOWING MAKEUP SUNSCREEN BROAD SPECTRUM SPF 15 060 Mocha,M,2500,jlembrickrh
+991,Old Spice Game Day,F,,psertinri
+992,Lip Smacker SPF 24 Lemon Lime Rush,F,96960,rtothacotrj
+993,Muscle and Joint Vanishing Scent,M,,mdonnettrk
+994,Ulesfia,F,186352,kdeboickrl
+995,Clopidogrel,F,,achantlerrm
+996,RABBIT,M,4505-427,pdudingrn
+997,Nerve Pain,F,,docurneenro
+998,ShopRite Childrens Multi Symptom Cold Relief,M,,bkelsellrp
+999,ESIKA PERFECT SKIN COVERAGE CONCEALER SPF 17,F,,eziemsenrq
+1000,Mentholatum Natural Chest Rub,F,,mmalinsonrr

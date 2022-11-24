@@ -1,13 +1,26 @@
 from tkinter import *
 from tkinter import ttk, filedialog
 from PIL import ImageTk, Image
+import matplotlib.pyplot as plt
 import pandas as pd
 
 win2 = Tk()
 win2.config(width=850, height=400)
 win2.title("Ferretería")
 
-data = pd.read_csv('datos.csv')
+# with open('data/cliente.csv') as arc_cliente:
+#     clientes = arc_cliente.read().splitlines()
+    
+# with open('data/producto.csv') as arc_producto:
+#     productos = arc_producto.read()
+    
+# with open('data/pedido.csv') as arc_pedidos:
+#     pedidos = arc_pedidos.read().splitlines()
+    
+productos = pd.read_csv('data/producto.csv')
+pedidos = pd.read_csv('data/pedido.csv')
+clientes = pd.read_csv('data/cliente.csv')
+empleados = pd.read_csv('data/empleado.csv')
 
 frame = Frame(win2)
 frame.pack(pady = 2)
@@ -20,21 +33,108 @@ def clear():
 
 def tabla():
     clear()
-    
-    vista["column"] = list(data.columns)
+
+    #############################################
+    filPedido = pedidos[['fecha']]
+        
+    vista["column"] = list(filPedido.columns)
     vista["show"] = "headings"
     
     for column in vista["column"]:
-        vista.heading(column, text=column)
-       
-    data_rows = data.to_numpy().tolist()
-    for row in data_rows:
-        vista.insert("", "end", values=row)
+        vista.heading(column, text=column) 
         
+    data_rows = filPedido.to_numpy().tolist()
+    for row in data_rows:
+        vista.insert("", "end", values = row)
     
 def filtros():
     clear()
     seleccion = menuFiltro.get()
+    
+    ###################################################
+    if seleccion == "Producto":
+        rowsProducto = productos[['codigo','nombre_Producto']]
+        rowsPedido = pedidos[['codigo','fecha']]
+        
+        Union = pd.merge(rowsProducto, rowsPedido, left_on = 'codigo', right_on = 'codigo')
+        
+        vista["column"] = list(Union.columns)
+        vista["show"] = "headings"
+
+        for column in vista["column"]:
+            vista.heading(column, text=column) 
+            
+        data_rows = Union.to_numpy().tolist()
+        for row in data_rows:
+            vista.insert("", "end", values = row)
+    ###################################################                    
+    if seleccion == "Montos":
+        rowsPedido = pedidos[['codigo', 'monto', 'fecha']]
+        
+        Union = rowsPedido
+        
+        vista["column"] = list(Union.columns)
+        vista["show"] = "headings"
+
+        for column in vista["column"]:
+            vista.heading(column, text=column) 
+            
+        data_rows = Union.to_numpy().tolist()
+        for row in data_rows:
+            vista.insert("", "end", values = row)
+    
+    ###################################################
+    if seleccion == "Compras":
+        rowsProducto = productos[['codigo','nombre_Producto']]
+        rowsCliente = clientes[['codigo','nombre_Cliente']]
+        
+        Union = pd.merge(rowsCliente, rowsProducto, left_on = 'codigo', right_on = 'codigo')
+        
+        vista["column"] = list(Union.columns)
+        vista["show"] = "headings"
+
+        for column in vista["column"]:
+            vista.heading(column, text=column) 
+            
+        data_rows = Union.to_numpy().tolist()
+        for row in data_rows:
+            vista.insert("", "end", values = row)
+            
+    ###################################################
+    if seleccion == "Ventas":
+        rowsEmpleado = empleados[['codigo','id','nombre']]
+        rowsPedido = pedidos[['codigo','descripcion']]
+        
+        Union = pd.merge(rowsEmpleado, rowsPedido, left_on = 'codigo', right_on = 'codigo')
+        
+        vista["column"] = list(Union.columns)
+        vista["show"] = "headings"
+
+        for column in vista["column"]:
+            vista.heading(column, text=column) 
+            
+        data_rows = Union.to_numpy().tolist()
+        for row in data_rows:
+            vista.insert("", "end", values = row)
+            
+    if seleccion == "Artículos":
+        rowsPedido = pedidos[['codigo', 'fecha']]
+        rowsProducto = productos[['codigo','nombre_Producto']]
+        rowsCliente = clientes[['codigo','nombre_Cliente']]
+        
+        Union_1 = pd.merge(rowsCliente, rowsProducto, left_on = 'codigo', right_on = 'codigo')
+        Union_2 = pd.merge(rowsPedido, Union_1, left_on = 'codigo', right_on = 'codigo')
+        
+        vista["column"] = list(Union_2.columns)
+        vista["show"] = "headings"
+
+        for column in vista["column"]:
+            vista.heading(column, text=column) 
+            
+        data_rows = Union_2.to_numpy().tolist()
+        for row in data_rows:
+            vista.insert("", "end", values = row)
+    
     
 tabla()
 vista.pack()
@@ -49,7 +149,7 @@ logo1.place(x=25, y=1)
 
 # Labels
 ttk.Label(win2, text = "Selecciona filtro: ").place(x=400, y= 25)
-ttk.Label(win2, text = "Selecciona tiempo: ").place(x=600, y= 25)
+ttk.Label(win2, text = "Selecciona período: ").place(x=600, y= 25)
 
 # Combobox
 menuFiltro = ttk.Combobox(win2, 
